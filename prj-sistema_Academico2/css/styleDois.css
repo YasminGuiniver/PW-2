@@ -1,0 +1,29 @@
+#div1{
+    text-align: center;
+    display: block;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #000;
+    font-size: 40px;
+    background-color: #2ca6d4;
+}
+
+#div2{
+    display: block;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #000;
+    font-size: 30px;
+}
+
+#div3{
+    margin-left: 55px;
+    margin-right: 55px;
+    color:#000;
+}
+
+#div4{
+    color: #2ca6d4;
+}
+
+#menu2{
+    background-color: #d3d3d3 ;
+}
